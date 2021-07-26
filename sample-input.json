@@ -1,7 +1,3 @@
-# taxi-service
-Input json:
-
-```
 [
     {
         "taxi": {
@@ -104,22 +100,3 @@ Input json:
         }
     }
 ]
-```
-
-Output json:
-```
-[
-	{
-		"id": "c0033410-981c-428a-954a-35dec05ef1d2",
-		"customer_id": "b1286c18-3fae-4804-bfd9-c3d6e8f66260"
-	},
-	{
-		"id": "f26e890b-df8e-422e-a39c-7762aa0bac38",
-		"customer_id": "34oe23ef-6c2b-430c-9b90-cd4f1ff74c88"
-	},
-	{
-		"id": "f26e890b-df8e-422e-a39c-7762aa0bac38",
-		"customer_id": "34oe23ef-6c2b-430c-9b90-cd4f1ff74c89"
-	}
-]
-```
