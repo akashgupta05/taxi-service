@@ -123,3 +123,10 @@ Output json:
 	}
 ]
 ```
+
+
+Steps to run the service:
+
+`1. go build`
+
+`2. ./taxi-service`
